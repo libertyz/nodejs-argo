@@ -2,24 +2,6 @@
 
 # nodejs-argo隧道代理
 
-[![npm version](https://img.shields.io/npm/v/nodejs-argo.svg)](https://www.npmjs.com/package/nodejs-argo)
-[![npm downloads](https://img.shields.io/npm/dm/nodejs-argo.svg)](https://www.npmjs.com/package/nodejs-argo)
-[![License](https://img.shields.io/npm/l/nodejs-argo.svg)](https://github.com/eooce/nodejs-argo/blob/main/LICENSE)
-
-nodejs-argo是一个强大的Argo隧道部署工具，专为PaaS平台和游戏玩具平台设计。它支持多种代理协议（VLESS、VMess、Trojan等），并集成了哪吒探针功能。
-
----
-
-Telegram交流反馈群组：https://t.me/eooceu
-</div>
-
-## 郑重声明
-* 本项目自2025年10月29日15时45分起,已更改开源协议,并包含以下特定要求
-* 此项目仅限个人使用，禁止用于商业行为(包括但不限于：youtube,bilibili,tiktok,facebook..等等)
-* 禁止新建项目将代码复制到自己仓库中用做商业行为
-* 请遵守当地法律法规,禁止滥用做公共代理行为
-* 如有违反以上条款者将追究法律责任
-
 ## 说明 （部署前请仔细阅读）
 
 * 本项目是针对node环境的paas平台和游戏玩具而生，采用Argo隧道部署节点，集成哪吒探针v0或v1可选。
@@ -191,16 +173,3 @@ npm update -g nodejs-argo
 npm uninstall -g nodejs-argo
 npm install -g nodejs-argo
 ```
-
-## 📚 更多信息
-
-- [GitHub仓库](https://github.com/eooce/nodejs-argo)
-- [npm包页面](https://www.npmjs.com/package/nodejs-argo)
-- [问题反馈](https://github.com/eooce/nodejs-argo/issues)
-
----
-
-## 赞助
-* 感谢[VPS.Town](https://vps.town)提供赞助 <a href="https://vps.town" target="_blank"><img src="https://vps.town/static/images/sponsor.png" width="30%" alt="https://vps.town"></a>
-
-* 感谢[ZMTO](https://zmto.com/?affid=1548)提供赞助优质双isp vps。
